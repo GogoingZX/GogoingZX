@@ -22,7 +22,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GogoingZX&hide=jupyter%20notebook&layout=compact)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=GogoingZX&count_private=true&theme=swift&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=GogoingZX&count_private=false&theme=swift&show_icons=true)
 
 GogoingZX/GogoingZX, This is Comment
 --->
