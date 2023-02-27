@@ -1,7 +1,7 @@
 
 👋 Hi, I’m @GogoingZX
   
-👀 I’m interested in **Data Science** and **Data Infrastruction**
+👀 I’m interested in **Data Science** and **Python**
 
 🌱 I’m currently learning **Python**, **Spark**, **JavaScript**, **D3js**...
 
