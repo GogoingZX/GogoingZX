@@ -1,5 +1,3 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=GogoingZX)](https://git.io/streak-stats)
-
 👋 Hi, I’m @GogoingZX
   
 👀 I’m interested in **Data Science** and **Python**
@@ -28,3 +26,4 @@
 GogoingZX/GogoingZX, This is Comment
 --->
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=GogoingZX)](https://git.io/streak-stats)
