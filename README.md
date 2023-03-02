@@ -15,7 +15,11 @@
 
 <img  align="center" src="https://streak-stats.demolab.com?user=GogoingZX&hide_border=true&border_radius=5" width=600/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GogoingZX)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=GogoingZX&theme=github-light" alt="Activity Graph" /></a>
+</p>
+
+[![Ashutosh's github activity graph]()]()
 
 <!---
 <a href="https://github.com/GogoingZX/jupyter_pool">
