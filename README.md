@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&width=650&height=60&lines=Good+morning%2C+and+in+case+I+don't+see+you.;Good+afternoon.+Good+evening.+And+good+night." alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=000000&width=650&height=60&lines=Good+morning%2C+and+in+case+I+don't+see+you.;Good+afternoon.+Good+evening.+And+good+night." alt="Typing SVG" /></a>
 </p>
 
 # About Me
@@ -9,9 +9,9 @@
 
 🌱 I’m currently learning **Python**, **Spark**, **JavaScript**, **D3js**...
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GogoingZX&hide=jupyter%20notebook&layout=compact&theme=graywhite" width=350/>
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GogoingZX&count_private=true&theme=graywhite&show_icons=true" width=400/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GogoingZX&hide=jupyter%20notebook&layout=compact&theme=graywhite" width=400/>
 
 <img  align="center" src="https://streak-stats.demolab.com?user=GogoingZX&hide_border=true&border_radius=5" width=600/>
 
