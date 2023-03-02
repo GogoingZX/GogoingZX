@@ -1,11 +1,10 @@
+[![GitHub Streak](https://streak-stats.demolab.com?user=GogoingZX)](https://git.io/streak-stats)
 
 👋 Hi, I’m @GogoingZX
   
 👀 I’m interested in **Data Science** and **Python**
 
 🌱 I’m currently learning **Python**, **Spark**, **JavaScript**, **D3js**...
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=GogoingZX)](https://git.io/streak-stats)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GogoingZX&hide=jupyter%20notebook&layout=compact&theme=graywhite" width=350/>
 
