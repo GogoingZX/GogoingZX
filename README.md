@@ -11,7 +11,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GogoingZX&count_private=true&theme=graywhite&show_icons=true" width=400/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GogoingZX&hide=jupyter%20notebook&layout=compact&theme=graywhite" width=400/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GogoingZX&layout=compact&theme=graywhite" width=400/>
 
 <img  align="center" src="https://streak-stats.demolab.com?user=GogoingZX&hide_border=true&border_radius=5" width=600/>
 
