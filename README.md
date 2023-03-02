@@ -8,6 +8,8 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GogoingZX&count_private=true&theme=graywhite&show_icons=true" width=400/>
 
+<img  align="center" src="https://streak-stats.demolab.com?user=GogoingZX&hide_border=true&border_radius=5" width=400/>
+
 <!---
 <a href="https://github.com/GogoingZX/jupyter_pool">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GogoingZX&repo=jupyter_pool&theme=graywhite" />
@@ -23,7 +25,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=GogoingZX&count_private=true&theme=swift&show_icons=true)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=GogoingZX&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+
 GogoingZX/GogoingZX, This is Comment
 --->
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=GogoingZX&hide_border=true&border_radius=5)](https://git.io/streak-stats)
