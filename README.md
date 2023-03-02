@@ -5,6 +5,8 @@
 
 🌱 I’m currently learning **Python**, **Spark**, **JavaScript**, **D3js**...
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=GogoingZX)](https://git.io/streak-stats)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GogoingZX&hide=jupyter%20notebook&layout=compact&theme=graywhite" width=350/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GogoingZX&count_private=true&theme=graywhite&show_icons=true" width=400/>
@@ -23,8 +25,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GogoingZX&hide=jupyter%20notebook&layout=compact)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=GogoingZX&count_private=true&theme=swift&show_icons=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GogoingZX)](https://git.io/streak-stats)
 
 GogoingZX/GogoingZX, This is Comment
 --->
