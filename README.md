@@ -24,9 +24,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=GogoingZX&count_private=true&theme=swift&show_icons=true)
 
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GogoingZX" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GogoingZX)](https://git.io/streak-stats)
 
 GogoingZX/GogoingZX, This is Comment
 --->
