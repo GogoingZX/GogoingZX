@@ -26,4 +26,4 @@
 GogoingZX/GogoingZX, This is Comment
 --->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GogoingZX)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GogoingZX&hide_border=true&border_radius=5)](https://git.io/streak-stats)
