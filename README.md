@@ -1,3 +1,6 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&width=650&height=60&lines=Good+morning%2C+and+in+case+I+don't+see+you.;Good+afternoon.+Good+evening.+And+good+night." alt="Typing SVG" /></a>
+
+---
 👋 Hi, I’m @GogoingZX
   
 👀 I’m interested in **Data Science** and **Python**
