@@ -19,8 +19,6 @@
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=GogoingZX&theme=github-light" alt="Activity Graph" /></a>
 </p>
 
-[![Ashutosh's github activity graph]()]()
-
 <!---
 <a href="https://github.com/GogoingZX/jupyter_pool">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GogoingZX&repo=jupyter_pool&theme=graywhite" />
