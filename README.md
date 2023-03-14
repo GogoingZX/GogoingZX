@@ -9,7 +9,10 @@
 
 🌱 I’m currently learning **Python**, **Spark**, **JavaScript**, **D3js**...
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=2077)
+<div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GogoingZX&theme=github)
+
+</div>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GogoingZX&count_private=true&theme=graywhite&show_icons=true" width=400/>
 
