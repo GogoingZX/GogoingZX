@@ -9,22 +9,16 @@
 
 🌱 I’m currently learning **Python**, **Spark**, **JavaScript**, **D3js**...
 
-<div align="center">
-![](https://github-readme-stats.vercel.app/api?username=GogoingZX&count_private=true&theme=graywhite&show_icons=true)
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=GogoingZX&count_private=true&theme=graywhite&show_icons=true" width=400/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GogoingZX&layout=compact&theme=graywhite" width=360/>
 
+<p>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=GogoingZX&theme=github-light" alt="Activity Graph" width=820/></a>
+</p>
 </div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=GogoingZX&count_private=true&theme=graywhite&show_icons=true" width=400/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GogoingZX&layout=compact&theme=graywhite" width=400/>
-
-<img  align="center" src="https://streak-stats.demolab.com?user=GogoingZX&hide_border=true&border_radius=5" width=600/>
-
-<p align="center">
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=GogoingZX&theme=github-light" alt="Activity Graph" /></a>
-</p>
-
-<!---
+<!--- GogoingZX/GogoingZX, This is Comment
 <a href="https://github.com/GogoingZX/jupyter_pool">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GogoingZX&repo=jupyter_pool&theme=graywhite" />
 </a>
@@ -39,7 +33,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=GogoingZX&count_private=true&theme=swift&show_icons=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GogoingZX&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=GogoingZX&hide_border=true&border_radius=5" width=300/>
 
-GogoingZX/GogoingZX, This is Comment
+[![GitHub Streak](https://streak-stats.demolab.com?user=GogoingZX&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 --->
