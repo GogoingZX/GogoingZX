@@ -7,7 +7,7 @@ Hi there, I'm GogoingZX! 👋
 
 I'm a passionate learner with a keen interest in data, technology and finance. I'm currently exploring the world of **Math, Python, Spark, D3js...** with an eye towards using these tools to build data-driven solutions that address real-world challenges.
 
-I'm constantly seeking out new challenges and learning opportunities, whether it's working on a personal project or collaborating with others, I enjoy pushing myself to grow and develop new skills.
+I'm constantly seeking out new challenges and learning opportunities. Whether it's working on a personal project or collaborating with others, I enjoy pushing myself to grow and develop new skills.
 
 When I'm not coding, you can find me reading, playing video games, or exploring the outdoors. I'm always up for a good conversation, so feel free to reach out and connect! 😊
 
