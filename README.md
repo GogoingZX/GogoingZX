@@ -9,8 +9,8 @@
 
 🌱 I’m currently learning **Python**, **Spark**, **JavaScript**, **D3js**...
 
-<div>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GogoingZX&theme=github)
+<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=GogoingZX&count_private=true&theme=graywhite&show_icons=true)
 
 </div>
 
