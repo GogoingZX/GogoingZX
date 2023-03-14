@@ -9,7 +9,7 @@ I'm a passionate learner with a keen interest in data, technology and finance. I
 
 I'm constantly seeking out new challenges and learning opportunities. Whether it's working on a personal project or collaborating with others, I enjoy pushing myself to grow and develop new skills.
 
-When I'm not coding, you can find me reading, playing video games, or exploring the outdoors. I'm always up for a good conversation, so feel free to reach out and connect! 😊
+When I'm not coding, you can find me reading, playing video games, or exploring the outdoors. I'm always up for a good conversation, so feel free to reach out and connect!
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=GogoingZX&count_private=true&theme=graywhite&show_icons=true" width=400/>
