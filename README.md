@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning **Python**, **Spark**, **JavaScript**, **D3js**...
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={GogoingZX}&theme={nord_bright}" width=400/>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={GogoingZX}&theme={nord_bright}" width=600/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GogoingZX&count_private=true&theme=graywhite&show_icons=true" width=400/>
 
