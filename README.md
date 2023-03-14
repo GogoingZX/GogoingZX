@@ -14,7 +14,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GogoingZX&layout=compact&theme=graywhite" width=360/>
 
 <p>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=GogoingZX&theme=github-light" alt="Activity Graph" width=820/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=GogoingZX&theme=github-light" alt="Activity Graph" width=800/></a>
 </p>
 </div>
 
