@@ -13,6 +13,7 @@ When I'm not coding, you can find me reading, playing video games, or exploring 
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=GogoingZX&count_private=true&theme=graywhite&show_icons=true" width=400/>
+    
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GogoingZX&layout=compact&theme=graywhite" width=360/>
 
 <p>
