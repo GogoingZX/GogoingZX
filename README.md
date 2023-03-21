@@ -25,6 +25,7 @@ When I'm not coding, you can find me reading, playing video games, or exploring 
 <a href="https://github.com/GogoingZX/jupyter_pool">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GogoingZX&repo=jupyter_pool&theme=graywhite" />
 </a>
+
 <a href="https://github.com/GogoingZX/knowledge_pool">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GogoingZX&repo=knowledge_pool&theme=graywhite" />
 </a>
