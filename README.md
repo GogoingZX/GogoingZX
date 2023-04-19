@@ -3,7 +3,7 @@
 </p>
 
 # About Me
-Hi there, I'm GogoingZX! 👋
+Hi there, I'm Alan! 👋
 
 I'm a passionate learner with a keen interest in data, technology and finance. I'm currently exploring the world of **Math, Python, Spark, D3js...** with an eye towards using these tools to build data-driven solutions that address real-world challenges.
 
